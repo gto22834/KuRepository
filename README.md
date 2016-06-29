@@ -9,6 +9,7 @@ All tip for develop enviroment
 3. Install [homebrew-cask]
    - $ brew --version         => Check version (> 0.9.5)
    - $ brew tap caskroom/cask => Install
+
 #### Commonly used command
 - $ brew search                 => search avalible pacakge
 - $ brew list                   => List all installed package
