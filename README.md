@@ -45,6 +45,8 @@ Install Android studio by brew
 ## Else
 ### Github
 存放和 Github 相關的知識
+[git 指令集]
+
 #### shields.io
 git 標旗生成器
 http://shields.io/
@@ -60,3 +62,4 @@ http://shields.io/
 [React-redux-tutorial]:https://github.com/lewis617/react-redux-tutorial
 [Example-React]: https://react.rocks/
 [Example-CSS3D]: https://github.com/shrekshrek/css3d-engine/blob/master/css3d.js
+[git 指令集]:https://blog.longwin.com.tw/2009/05/git-learn-initial-command-2009/
