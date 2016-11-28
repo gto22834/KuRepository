@@ -67,4 +67,5 @@ http://shields.io/
 [Example-CSS3D]: https://github.com/shrekshrek/css3d-engine/blob/master/css3d.js
 [git 指令集]:https://blog.longwin.com.tw/2009/05/git-learn-initial-command-2009/
 [Validator]:https://www.npmjs.com/package/validator
-[Moment.js]:http://momentjs.com/docs/#/get-set/
+[Moment.js 時間轉換插件]:http://momentjs.com/docs/#/get-set/
+[Chosen.js selector插件]:https://github.com/harvesthq/chosen
